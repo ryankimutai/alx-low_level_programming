@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- *_puts_recusion - function to print string character
+ *_puts_recusion - function like puts();
  *@s: input
  * Return: always 0
  */
