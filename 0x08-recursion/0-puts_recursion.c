@@ -1,8 +1,10 @@
 #include "main.h"
 
 /**
- *_puts_recusion - function like puts();
+ *_puts_recusion - prints a string, followed by a new line, using recusion
+
  *@s: input
+
  * Return: always 0
  */
 
